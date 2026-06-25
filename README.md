@@ -163,19 +163,23 @@ Application Running
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="https://linkedin.com/in/rakesh-s-66750328a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/rakesh-s-66750328a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rakeshs2k26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+📧 **Email:** rakeshs2k26@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/rakesh-s-66750328a/
 
 ---
 
