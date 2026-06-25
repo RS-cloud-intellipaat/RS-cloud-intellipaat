@@ -167,11 +167,11 @@ Application Running
 
 <p>
 
-<a href="https://linkedin.com/in/your-linkedin-url">
+<a href="https://linkedin.com/in/rakesh-s-66750328a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:rakeshs2k26@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
