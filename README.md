@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | Docker | Jenkins</h3>
+<h1 align="center">Hi 👋, I'm Rakesh S</h1>
+
+<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Jenkins</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+Jenkins;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+Jenkins;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RS-cloud-intellipaat&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<a href="https://www.linkedin.com/in/rakesh-s-66750328a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rakeshs2k26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -14,134 +23,126 @@
 # 👨‍💻 About Me
 
 - 💼 3.6+ Years of IT Experience
-- 🌱 Transitioning into DevOps & Cloud Engineering
-- ☁️ Skilled in AWS Cloud Services
+- ☁️ Transitioning into DevOps & Cloud Engineering
 - 🚀 Passionate about Automation & CI/CD
 - 🐳 Hands-on with Docker & Kubernetes
 - 🔧 Experienced with Jenkins Pipelines
-- 📚 Currently learning Advanced Kubernetes & Terraform
+- 🏗 Learning Infrastructure as Code with Terraform
+- 📦 Learning Configuration Management with Ansible
+- 📚 Currently building real-world DevOps projects
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Cloud
+### ☁️ Cloud & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20VPC%20%7C%20S3%20%7C%20IAM%20%7C%20RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### DevOps
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github,maven"/>
-</p>
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Programming
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-</p>
+### 🐳 Containers & Orchestration
 
-### Operating System
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu"/>
-</p>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 🔄 CI/CD
+
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)
+
+---
+
+### 🐧 Operating System
+
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 💻 Programming
+
+![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-6DB33F?style=for-the-badge&logo=springboot)
+
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven)
 
 ---
 
 # 🚀 Featured Project
 
-## End-to-End CI/CD Pipeline
+## End-to-End CI/CD Pipeline using GitHub, Jenkins, Docker & Kubernetes
 
-### Project Architecture
+### Architecture
 
+```
 GitHub
-⬇
-
-Jenkins
-⬇
-
-Docker Build
-⬇
-
+   │
+   ▼
+ Jenkins
+   │
+   ▼
+Maven Build
+   │
+   ▼
+Docker Image
+   │
+   ▼
 Docker Hub
-⬇
-
-Kubernetes Deployment
-⬇
-
+   │
+   ▼
+Kubernetes Cluster
+   │
+   ▼
 Application Running
+```
 
-### Features
+### Key Features
 
-- GitHub Integration
-- Jenkins Declarative Pipeline
-- Maven Build
-- Docker Image Creation
-- Docker Hub Push
-- Kubernetes Deployment
-- Rolling Updates
-- Automatic Deployment
+✅ GitHub Integration
 
-### Technologies Used
+✅ Jenkins Declarative Pipeline
 
-- GitHub
-- Jenkins
-- Docker
-- Kubernetes
-- Maven
-- Java
-- Spring Boot
-- AWS EC2
-- Linux
+✅ Maven Build Automation
+
+✅ Docker Image Build
+
+✅ Docker Hub Push
+
+✅ Kubernetes Deployment
+
+✅ Rolling Updates
 
 ---
 
-# 📂 Other DevOps Projects
+# 📂 Projects
 
-✅ Kubernetes Cluster Setup
-
-✅ Dockerized Spring Boot Application
-
-✅ Jenkins Pipeline Automation
-
-✅ Terraform Infrastructure Automation
-
-✅ AWS EC2 Deployment
-
-✅ Linux Administration
+- 🚀 End-to-End CI/CD Pipeline
+- ☸ Kubernetes Cluster Setup
+- 🐳 Dockerized Spring Boot Application
+- ☁ AWS EC2 Deployments
+- 🏗 Terraform Infrastructure Provisioning
+- 🤖 Ansible Automation
 
 ---
 
-# 🛠 Skills
-
-| Category | Skills |
-|----------|--------|
-| Cloud | AWS |
-| Containers | Docker, Kubernetes |
-| CI/CD | Jenkins |
-| IaC | Terraform |
-| Configuration | Ansible |
-| Build Tool | Maven |
-| SCM | Git, GitHub |
-| OS | Linux |
-| Programming | Java, Spring Boot |
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RS-cloud-intellipaat&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RS-cloud-intellipaat&show_icons=true&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-cloud-intellipaat&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-cloud-intellipaat&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -153,38 +154,30 @@ Application Running
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RS-cloud-intellipaat&theme=react-dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RS-cloud-intellipaat&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/rakesh-s-66750328a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rakeshs2k26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+# 📫 Connect With Me
 
 📧 **Email:** rakeshs2k26@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/rakesh-s-66750328a/
 
+🐙 **GitHub:** https://github.com/RS-cloud-intellipaat
+
 ---
 
 # 💡 Quote
 
-> "Continuous Learning + Consistency = Growth."
+> **"Automate everything. Learn continuously. Build reliably."**
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ **Thanks for visiting my profile! If you like my work, don't forget to star my repositories.**
